@@ -7,5 +7,5 @@ public class InvalidColorException extends Exception{
     }
 }
 
-// Creating a class as a sub class of the Exception class will create a checked exception
+// Creating a class as a subclass of the Exception class will create a checked exception
 

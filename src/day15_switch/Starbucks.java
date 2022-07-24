@@ -35,7 +35,7 @@ public class Starbucks {
         String size = input.next();
         double price = 0;
         int calories = 0;
-        boolean validOrder = true; // by making it true, i pick that all orders are valid, when I have an invalid order I will change the value
+        boolean validOrder = true; // by making it true, I pick that all orders are valid, when I have an invalid order I will change the value
 
         switch (size){
             case "tall":
